@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -33,4 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# next-js-mdx
+
+This is a nexxt js blog. It uses mdxx files for the content. This is a tutorial from Dave Gray to explore the nextjs framework
+
+> > > > > > > 44936d3c133adee816c798399c7de9c94f4f66f6
