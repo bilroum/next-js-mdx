@@ -40,4 +40,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 This is a nexxt js blog. It uses mdxx files for the content. This is a tutorial from Dave Gray to explore the nextjs framework
 
-> > > > > > > 44936d3c133adee816c798399c7de9c94f4f66f6
+> > > > > > >
